@@ -1,4 +1,4 @@
-# Write-up : LAB 1 - Mise en place du Lab de Sécurité Mobile (Mobexler)
+# LAB 1 - Mise en place du Lab de Sécurité Mobile (Mobexler)
 
 **Réalisé par :** Bouanani Noussair
 
